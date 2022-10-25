@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevTionary</string>
+    <string name="loginbtn">Log in</string>
+    <string name="adminpassw">Password</string>
+    <string name="adminuser">User</string>
+    <string name="manage">Manage</string>
+    <string name="devtinary">DevTionary is an ideal tool for those starting out in the world of programming, its goal is to provide information about the different languages through clear and simple definitions, making learning more friendly.</string>
+    <string name="Saludo">Welcome</string>
+    <string name="decripccion_moviles">Certificate in programming applications for mobile devices, ID: 2451009 of the year 2022, as a group we are characterized by the union, responsibility and desire to venture into the world of programming.</string>
+    <string name="tecnico">Certificate in programming application for mobile devices.</string>
+    <string name="fragmenacerca">about Us</string>
+    <string name="fragmenusu">User manual</string>
+    <string name="Sena">SENA-CGDSS</string>
+    <string name="busqueda">Quick Search</string>
+    <string name="error">Enter a Term</string>
+    <string name="infor">About</string>
+    <string name="manual">Manual</string>
+    <string name="salir">Exit</string>
+    <string name="ejemplo">Example</string>
+    <string name="copy">Copied text ;)</string>
+</resources>

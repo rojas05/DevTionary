@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DevTionary</string>
+    <string name="loginbtn">Iniciar Sesión</string>
+    <string name="adminpassw">Contraseña</string>
+    <string name="adminuser">Usuario</string>
+    <string name="manage">Administrar</string>
+    <string name="devtinary">DevTionary es una herramienta ideal para quienes se inician en el mundo de la programación, su objetivo es brindar información sobre los diferentes lenguajes mediante definiciones claras y sencillas haciendo mas amigable el aprendizaje.</string>
+    <string name="Saludo">Bienvenido</string>
+    <string name="tecnico">Tecnico En Programacion De Aplicaciones Para Dispositivos Moviles</string>
+    <string name="decripccion_moviles">Técnico en programación de aplicaciónes para dispositivos móviles, ID:2451009  del año 2022, como grupo nos caracteriza la unión, responsabilidad y deseo de incursionar en el mundo de la programación.</string>
+    <string name="Sena">SENA - CGDSS</string>
+    <string name="fragmenusu">Manual de Usuario</string>
+    <string name="fragmenacerca">Acerca de</string>
+    <string name="error">Ingrese Un Termino</string>
+    <string name="busqueda">Busqueda Rapida</string>
+    <string name="infor">Acerca de</string>
+    <string name="manual">Manual</string>
+    <string name="salir">Salir</string>
+    <string name="ejemplo">Ejemplo</string>
+    <string name="copy">Texto Copiado ;)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
